@@ -175,6 +175,9 @@ form input[type="checkbbox"] {
 form button {
     padding: 10px 20px;
     border: none;
+    display: block;
+    margin: 10px auto;
+    margin-bottom: 1cm;
     border-radius: 5px;
     font-weight: bold;
     cursor: pointer;
