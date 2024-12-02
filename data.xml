@@ -1,0 +1,20 @@
+<softwares>
+    <software type="Microsoft">
+        <name>Microsoft Word</name>
+        <category>Productivity</category>
+        <function>Word processing</function>
+        <platforms>Windows, macOS</platforms>
+    </software>
+    <software type="Adobe">
+        <name>Adobe Photoshop</name>
+        <category>Graphic Design</category>
+        <function>Image editing and manipulation</function>
+        <platforms>Windows, macOS</platforms>
+    </software>
+    <software type="Google">
+        <name>Google Chrome</name>
+        <category>Web Browser</category>
+        <function>Internet browsing</function>
+        <platforms>Windows, macOS, Linux, Android, iOS</platforms>
+    </software>
+</softwares>
