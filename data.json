@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Microsoft Word",
+        "category": "Productivity",
+        "function": "Word processing",
+        "platforms": "Windows, macOS"
+    },
+    {
+        "name": "Adobe Photoshop",
+        "category": "Graphic Design",
+        "function": "Image editing and manipulation",
+        "platforms": "Windows, macOS"
+    },
+    {
+        "name": "Google Chrome",
+        "category": "Web Browser",
+        "function": "Internet browsing",
+        "platforms": "Windows, macOS, Linux, Android, iOS"
+    }
+]
